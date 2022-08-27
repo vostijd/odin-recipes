@@ -14,9 +14,18 @@ h1 {
 
 .index{
     text-align: center;
+    background-color: white;
 
 }
 
-body {
+.sm {
     background-color: rgb(63, 209, 18);
+}
+
+.pb {
+    background-color: blueviolet;
+}
+
+.ft {
+    background-color: burlywood;
 }
